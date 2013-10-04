@@ -87,9 +87,9 @@ function! inazuma#this(num_split, bang)
 endfunction
 
 function! inazuma#only(num_split, bang)
-    
+    throw "Not implemented yet"
 endfunction
 
 function! inazuma#zoomwin(num_split, bang)
-    
+    throw "Not implemented yet"
 endfunction
